@@ -1,4 +1,4 @@
-### Hi 👋 I'm Alberto
+### Hi I'm Alberto 👋🏼
 
 <!-- [![Website](https://img.shields.io/badge/Website-ClickMe-red?style=for-the-badge)]() -->
 
