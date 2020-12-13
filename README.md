@@ -13,7 +13,11 @@
 - 🔭 I’m currently learning everything 🤣
 - 🥅 2021 Goals: 12 Amazing Projects
 - ⚡ Fun fact: I love photography 📸 and learning something new every day📕
-- ❝Favourite Quote: Nothing in the world can take place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent.
+- ❝Favourite Quote❞
+  > "Nothing in the world can take place of persistence. <br/>
+  > Talent will not; nothing is more common than unsuccessful men with talent. <br/>
+  > Genius will not; unrewarded genius is practically a clichè. <br/>
+  > Education will not; the world is full of educated fools. <br/> Persistence and determination alone are all-powerful." Calvin Coolidge
 
 <!-- ### Spotify Playing 🎧 -->
 
