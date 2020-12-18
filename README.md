@@ -12,7 +12,7 @@
 - 🥊 I'm always ready to challenge myself!
 - 🔭 I’m currently learning everything 🤣
 - 🥅 2021 Goals: 12 Amazing Projects
-- ⚡ Fun fact: I love photography 📸 and learning something new every day📕
+- ⚡ Fun fact: I love photography 📸 and learn something new every day📕
 - ❝Favorite Quote❞
   > "Nothing in the world can take place of persistence. <br/>
   > Talent will not; nothing is more common than unsuccessful men with talent. <br/>
