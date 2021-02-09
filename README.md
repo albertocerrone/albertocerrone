@@ -10,9 +10,10 @@
 ## I'm a Developer and a friend 👨🏼‍💻!!
 
 - 🥊 I'm always ready to challenge myself!
-- 🔭 I’m currently learning everything 🤣
+- 🔭 I’m currently learning too many things 🤣
 - 🥅 2021 Goals: 12 Amazing Projects
 - ⚡ Fun fact: I love photography 📸  and learn something new every day📕
+- 📖 Currently Reading: The Clean Code Collection by Robert C. Martin
 - ❝Favorite Quote❞
   > "Nothing in the world can take place of persistence. <br/>
   > Talent will not; nothing is more common than unsuccessful men with talent. <br/>
