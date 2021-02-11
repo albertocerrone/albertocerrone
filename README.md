@@ -4,7 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-follow-blue?style=for-the-badge)][twitter]
 [![Linkedin Follow](https://img.shields.io/badge/LinkedIn-follow-important?style=for-the-badge)][linkedin]
-[!CodeWars](https://www.codewars.com/users/albertocerrone93/badges/micro)
+![img](https://www.codewars.com/users/albertocerrone93/badges/micro)
 
 ---
 
