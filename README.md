@@ -1,9 +1,10 @@
-### Hi I'm Alberto 👋🏼
+### Hi I'm Alberto <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
 
 <!-- [![Website](https://img.shields.io/badge/Website-ClickMe-red?style=for-the-badge)]() -->
 
-[![Twitter Follow](https://img.shields.io/badge/Twitter-follow-blue?style=for-the-badge)][twitter]
-[![Linkedin Follow](https://img.shields.io/badge/LinkedIn-follow-important?style=for-the-badge)][linkedin]
+[![Twitter Follow](https://img.shields.io/badge/-@AlbertoCerrone-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)][twitter]
+[![Linkedin Follow](https://img.shields.io/badge/-Alberto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
 ![img](https://www.codewars.com/users/albertocerrone93/badges/micro)
 
 ---
