@@ -1,8 +1,7 @@
 ### Hi I'm Alberto <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
-<!-- [![Website](https://img.shields.io/badge/Website-ClickMe-red?style=for-the-badge)]() -->
-
+[![Twitter Follow](https://img.shields.io/badge/-Portfolio-red?style=flat&labelColor=red&logo=WebAuthn&logoColor=white)][website]
 [![Twitter Follow](https://img.shields.io/badge/-@AlbertoCerrone-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)][twitter]
 [![Linkedin Follow](https://img.shields.io/badge/-Alberto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
 ![img](https://www.codewars.com/users/albertocerrone93/badges/micro)
@@ -28,9 +27,8 @@
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-
-[<img align="left" alt="Alberto | Twitter" width="22px" fill="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="" width="22px"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />][website]
+[<img align="left" alt="Alberto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Alberto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -48,7 +46,7 @@
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/django/django.png" /> 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<!-- <img align="left" alt="PostgreeSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgre/postgree.png" /> -->
+ <img align="left" alt="PostgreeSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -61,7 +59,7 @@
 <summary>🔧 GitHub Stats</summary>
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=albertocerrone&show_icons=true&hide_border=true" />
 </details>
-<!-- [website]:  -->
 
+[website]:  https://albertocerrone.co.uk
 [twitter]: https://twitter.com/AlbertoCerrone
 [linkedin]: https://linkedin.com/in/alberto-cerrone
