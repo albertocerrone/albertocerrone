@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/badge/-Portfolio-red?style=flat&labelColor=red&logo=WebAuthn&logoColor=white)][website]
 [![Twitter Follow](https://img.shields.io/badge/-@AlbertoCerrone-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)][twitter]
 [![Linkedin Follow](https://img.shields.io/badge/-Alberto-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)][linkedin]
-![img](https://www.codewars.com/users/albertocerrone93/badges/micro)
+![img](https://www.codewars.com/users/albertocerrone/badges/micro)
 
 ---
 
