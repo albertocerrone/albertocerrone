@@ -55,13 +55,11 @@
 
 ---
 
-<details>
-<summary>🔧 GitHub Stats</summary>
-  <p align="center">
-<img width="48%" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=albertocerrone&show_icons=true&theme=tokyonight" />
-<img width="48%" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=albertocerrone&theme=tokyonight" />
-    </p>
-</details>
+<p align="center">
+  <img width="48%" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=albertocerrone&show_icons=true&theme=tokyonight" />
+  <img width="48%" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=albertocerrone&theme=tokyonight" />
+</p>
+
 
 [website]:  https://albertocerrone.co.uk
 [twitter]: https://twitter.com/AlbertoCerrone
