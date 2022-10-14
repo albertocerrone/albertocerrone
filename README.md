@@ -8,12 +8,11 @@
 
 ---
 
-## I'm a Developer and a friend 👨🏼‍💻!!
+## I'm a developer and a friend 👨🏼‍💻!!
 
 - 🥊 I'm always ready to challenge myself!
-- 🥅 2021 Goals: 12 Amazing Projects
 - ⚡ Fun fact: I love photography 📸  and learn something new every day📕
-- 🔭 Currently learning: [JavaScript: The Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
+- 🔭 Currently learning: [Complete Python Developer in 2022: Zero to Masterys](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
 - 📖 Currently Reading: The Clean Code Collection by Robert C. Martin
 - ❝Favorite Quote❞
   > "Nothing in the world can take place of persistence. <br/>
